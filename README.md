@@ -64,7 +64,9 @@ gcc -Wall -Wextra -std=c11 -o MisionArtemis main.c artemis.c validaciones.c -lm
 
 5. Registro de uso de Inteligencia Artificial
 
-| Herramienta |  Prompt / consulta realizada | Cómo se adaptó |
+| Herramienta |  Prompt / consulta realizada | Cómo se adaptó
+
+
 Claude Sonnet 5.5 | Ayuda con tratamiento de punteros |  Resolvimos problemas que nos daban muchos problemas a la hora de tratar los punteros sobre todo en artemis.c
 Claude Sonnet 5.5 | Como Crear un reporte en un archivo entero, que librerias necesitamos si requerimos librerias |  usamos la libreria estandar <stdio.h> con el comando FILE.
 
