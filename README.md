@@ -68,6 +68,7 @@ gcc -Wall -Wextra -std=c11 -o MisionArtemis main.c artemis.c validaciones.c -lm
 
 
 Claude Sonnet 5.5 | Ayuda con tratamiento de punteros |  Resolvimos problemas que nos daban muchos problemas a la hora de tratar los punteros sobre todo en artemis.c
+
 Claude Sonnet 5.5 | Como Crear un reporte en un archivo entero, que librerias necesitamos si requerimos librerias |  usamos la libreria estandar <stdio.h> con el comando FILE.
 
 Claude Sonnet 5.5 | Aclaracion: No usamos prompt, en el prompt anterior nos recomendo estos comandos | banderas de compilacion para hacer mas facil encontrar bugs y errores en el codigo -Wall -Wextra -std=c11
